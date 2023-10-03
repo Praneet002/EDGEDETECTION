@@ -31,8 +31,8 @@ Display the filtered image using plot and imshow.
  
 ## Program:
 ```
-DEVELOPED BY: ALDRIN LIJO J E
-REG NO : 212222240007
+DEVELOPED BY: PRANEET S
+REG NO : 212221230078
 ```
 
  Python
